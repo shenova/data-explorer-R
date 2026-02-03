@@ -15,12 +15,10 @@ Key files included in the project: :contentReference[oaicite:2]{index=2}
 
 ## Quick start (view the outputs)
 
-If you just want to read the project outputs, open these files directly in your browser:
+If you want to read the project outputs, open these files directly in your browser:
 
 - `DoingItManually.html`
 - `Technical Presentation of DataExplorer.html`
-
-Tip: On GitHub, click a file → “View raw” if the HTML preview doesn’t render cleanly.
 
 ## Reproducing / Rendering the Quarto reports
 
