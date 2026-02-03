@@ -1,7 +1,39 @@
-## COGS 137 Final Project
+# R-Project — Using DataExplorer in R
 
-This repo is for your final project report for COGS 137, which will be submitted as a group.
+This repository is a small R/Quarto project focused on **teaching how to use the `DataExplorer` package in R** through written walkthroughs and rendered reports. :contentReference[oaicite:1]{index=1}
 
-Given the different options for the final project, no specific template file is provided for this project, but feel free to use previous templates to get you started.
+## What’s in this repo
 
-Reminder that you will also *individually* submit a form about how working with your group mates was (link found on Canvas home page). 
+Key files included in the project: :contentReference[oaicite:2]{index=2}
+
+- `DoingItManually.qmd` — Quarto source document
+- `DoingItManually.html` — rendered HTML version of the walkthrough
+- `Final Project.qmd` — final report (Quarto)
+- `project doc.qmd` — supporting project documentation (Quarto)
+- `Technical Presentation of DataExplorer.html` — presentation-style HTML output
+- `README.md` — project overview (this file)
+
+## Quick start (view the outputs)
+
+If you just want to read the project outputs, open these files directly in your browser:
+
+- `DoingItManually.html`
+- `Technical Presentation of DataExplorer.html`
+
+Tip: On GitHub, click a file → “View raw” if the HTML preview doesn’t render cleanly.
+
+## Reproducing / Rendering the Quarto reports
+
+### Requirements
+- R (recent version recommended)
+- Quarto
+- (Optional) RStudio (makes rendering easier)
+
+### Install packages
+In R:
+
+```r
+install.packages(c(
+  "DataExplorer",
+  "tidyverse"
+))
