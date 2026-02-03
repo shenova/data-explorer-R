@@ -1,6 +1,6 @@
 # R-Project — Using DataExplorer in R
 
-This repository is a small R/Quarto project focused on **teaching how to use the `DataExplorer` package in R** through written walkthroughs and rendered reports. :contentReference[oaicite:1]{index=1}
+This repository is a small R/Quarto project focused on **teaching how to use the `DataExplorer` package in R** through written walkthroughs and rendered reports.
 
 ## What’s in this repo
 
